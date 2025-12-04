@@ -1,0 +1,7 @@
+📌Questions
+
+1. Create a Student class with name, roll, and marks; add method to compute average.
+2. Create a BankAccount class with deposit, withdraw, and balance check.
+3. Create a Car class with brand, model, and a drive() method.
+4. Create a Restaurant class that stores menu items in a dictionary and prints the bill.
+5. Create a User class with private password and a method to validate login.
