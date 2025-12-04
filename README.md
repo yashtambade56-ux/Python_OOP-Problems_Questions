@@ -1,7 +1,7 @@
 # Python_OOP-Problems_Questions
 This repository contains Object-Oriented Programming exercises that focus on writing custom classes and performing real-life operations using objects.
 This repository contains 5 beginner-friendly Python OOP practice problems designed to help understand classes, objects, attributes, methods, encapsulation, and basic real-world modeling.
-These exercises form the final part of the 50 Python Basic Practice Questions, covering Questions 45 to 50.
+These exercises form the final part of the 50 Python Basic Practice Questions, covering Questions 46 to 50.
 
 ✅Topics Covered
 1. Classes & Objects
